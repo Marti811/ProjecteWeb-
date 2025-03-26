@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(224, 255, 255);
+}
+a {
+    color:rgb(2, 11, 74);
+    }
+
+#ImatgeP{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    top:0;
+    width: 100%;
+}
+ #menuprincipal{
+        background-color: rgb(78, 159, 189);
+        color: blue;
+        border: 2px solid rgb(37, 169, 240);
+        margin: 20px;
+        padding: 20px;
+        }
+
+        ul, li {
+            padding: 0,0;
+            margin: 2px ,2px;
+            display: inline-block;
+            }
+            
+#tit {
+        color: rgb(78, 159, 189);
+        text-align: center;
+        }  
+.cuadro {
+    background:linear-gradient(to bottom, rgba(169,228,247,1) 0%,rgba(61,190,229,1) 100%); 
+    color: rgb(70, 130, 180);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    width: 30%;
+    height: 200px;
+    opacity: 0.9;		
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px rgb(176, 94, 94);
+
+}
+    .btn {
+        background: #34d981;
+        background-image: -webkit-linear-gradient(top, #34d981, #40b82b);
+        background-image: -moz-linear-gradient(top, #34d981, #40b82b);
+        background-image: -ms-linear-gradient(top, #34d981, #40b82b);
+        background-image: -o-linear-gradient(top, #34d981, #40b82b);
+        background-image: linear-gradient(to bottom, #34d981, #40b82b);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Georgia;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cfaab;
+        text-decoration: none;
+      }
+.posicion {
+    float: right;
+}
+#l1{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    
+} 
+#l2{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+}
+#l3{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#l4{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 40px;
+}
+.CuadroInfo{
+    background-color: rgb(153, 229, 219);
+    border: 2px solid black;
+    margin: 30px ;
+    padding: 20px;
+}   
